@@ -62,7 +62,7 @@ To utilize the application and explore its capabilities, follow these instructio
    Start the application by executing the following command:
    
    ```bash
-   python special_effects_gui.py
+   python cva4.py
    ```
 
 2. **Load an Image**:
