@@ -2,7 +2,7 @@
 name = "special-effects-gui"
 version = "0.1.0"
 description = "A Python application for applying special effects to images using OpenCV and PyQt5."
-authors = ["Your Name <your-email@example.com>"]
+authors = ["AndrewLee <lyandrew1225@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
